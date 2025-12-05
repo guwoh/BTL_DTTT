@@ -1,0 +1,8 @@
+Change Component Comment : Designator=J? Old Comment=TMM-102-04-G-S New Comment=Loa
+Change Component Comment : Designator=J? Old Comment=TMM-102-04-G-S New Comment=Power
+Change Component Comment : Designator=P1 Old Comment=TSW-104-08-G-S New Comment=Audio jack
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=+18V Pin=J1-2
+Added Member To Class: ClassName=Mach_khuech_dai_am_thanh Member=Component J2 Loa
