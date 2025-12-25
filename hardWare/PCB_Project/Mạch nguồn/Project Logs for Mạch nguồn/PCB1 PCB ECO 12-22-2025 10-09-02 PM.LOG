@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+ Pin=D1-NEG
+Added Pin To Net: NetName=- Pin=D1-NEG
+Added Net: Name=-

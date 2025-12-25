@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=+ Pin=D1-NEG
+Added Pin To Net: NetName=+ Pin=D1-POS
+Added Net: Name=+
+Added Pin To Net: NetName=~ Pin=D1-AC1
+Added Pin To Net: NetName=~ Pin=D1-AC2
+Added Net: Name=~

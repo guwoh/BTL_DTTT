@@ -1,0 +1,20 @@
+LTspice 24.1.1 for Windows
+Circuit: D:\BTL_DTTT\hardWare\LTspice\filter_1.net
+Start Time: Thu Dec 25 21:25:59 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+.OP point found by inspection.
+Total elapsed time: 4.810 seconds.
+
+Simulation Failed: 
+
+Total elapsed time: 4.810 seconds.
+
+Files loaded:
+D:\BTL_DTTT\hardWare\LTspice\filter_1.net
+C:\Users\hoang\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\hoang\AppData\Local\LTspice\lib\cmp\standard.bjt
+
