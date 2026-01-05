@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetQ2_3 Pin=Q3-1
+Removed Pin From Net: NetName=R1+ Pin=Q3-2
+Removed Member From Class: ClassName=Mach_khuech_dai_am_thanh Member=R_P?
+Change Component Designator: OldDesignator=D_P? NewDesignator=D_Led
+Added Component: Designator=R_Led(FP-RK73H2A-MFG)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "732kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RK73H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=R1+ Pin=R_Led-2
+Added Pin To Net: NetName=NetD_Led_1 Pin=D_Led-1
+Added Pin To Net: NetName=NetD_Led_1 Pin=R_Led-1
+Added Net: Name=NetD_Led_1
+Add Net: Net with name "NetR?_1" already exists
+Added Member To Class: ClassName=Mach_khuech_dai_am_thanh Member=Component R? 100K
+Added Member To Class: ClassName=Mach_khuech_dai_am_thanh Member=Component R? 220K
+Added Member To Class: ClassName=Mach_khuech_dai_am_thanh Member=Component R? 100K
+Added Member To Class: ClassName=Mach_khuech_dai_am_thanh Member=Component R_Led 1K

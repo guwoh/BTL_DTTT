@@ -1,0 +1,33 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=Mach_khuech_dai_am_thanh Member=J2
+Removed Member From Class: ClassName=Mach_khuech_dai_am_thanh Member=Power
+Change Component Comment : Designator=DC_OUT Old Comment=1729128 New Comment=
+Added Component: Designator=J?(TO-220-3)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM7818CT/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM7818CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LM7818CT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM7818CT/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_P Pin=J?-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q3-1
+Added Pin To Net: NetName=R1+ Pin=Q3-2
+Added Pin To Net: NetName=NetC4_1 Pin=Q3-3
+Add Net: Net with name "NetR?_1" already exists
+Added Pin To Net: NetName=V_18 Pin=DC_OUT-2
+Added Pin To Net: NetName=V_18 Pin=J?-3
+Added Pin To Net: NetName=V_18 Pin=R_P-2
+Added Net: Name=V_18
+Added Pin To Net: NetName=V_20~ Pin=C_P-1
+Added Pin To Net: NetName=V_20~ Pin=D_CL-POS
+Added Pin To Net: NetName=V_20~ Pin=J?-1
+Added Net: Name=V_20~
+Added Member To Class: ClassName=Mach_khuech_dai_am_thanh Member=Component J? LM7818CT
+Added Member To Class: ClassName=Mach_khuech_dai_am_thanh Member=Component R? 100K
+Added Member To Class: ClassName=Mach_khuech_dai_am_thanh Member=Component R? 220K
+Added Member To Class: ClassName=Mach_khuech_dai_am_thanh Member=Component R? 100K
