@@ -1,16 +1,13 @@
 LTspice 24.1.1 for Windows
 Circuit: D:\BTL_DTTT\hardWare\LTspice\filter_1.net
-Start Time: Mon Jan  5 21:53:06 2026
+Start Time: Thu Jan  8 23:35:04 2026
 solver = Normal
 Maximum thread count: 16
 tnom = 27
 temp = 27
 method = trap
-No AC stimulus found:
-     Set the value of a current or voltage source to "AC 1."
-     to make it behave as a signal generator for AC analysis.
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.149 seconds.
+Total elapsed time: 0.318 seconds.
 
 Files loaded:
 D:\BTL_DTTT\hardWare\LTspice\filter_1.net
